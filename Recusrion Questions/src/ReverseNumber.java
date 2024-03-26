@@ -20,7 +20,7 @@ public class ReverseNumber {
     }
 
 
-    //3rd method Making an helper function outside our orixxginal reverse function
+    //3rd method Making an helper function outside our original reverse function
     static int rev3(int n) {
         // sometimes you might need some additional variables in the argument
         // in that case, make another function
