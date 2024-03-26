@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary_Search/Binary_Search.iml" filepath="$PROJECT_DIR$/Binary_Search/Binary_Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CycleSort/CycleSort.iml" filepath="$PROJECT_DIR$/CycleSort/CycleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FUNCTIONS/FUNCTIONS.iml" filepath="$PROJECT_DIR$/FUNCTIONS/FUNCTIONS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathForDSA/MathForDSA.iml" filepath="$PROJECT_DIR$/MathForDSA/MathForDSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recusrion Questions/Recusrion Questions.iml" filepath="$PROJECT_DIR$/Recusrion Questions/Recusrion Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting_Questions/Sorting_Questions.iml" filepath="$PROJECT_DIR$/Sorting_Questions/Sorting_Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bubblesort/bubblesort.iml" filepath="$PROJECT_DIR$/bubblesort/bubblesort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linear search/linear search.iml" filepath="$PROJECT_DIR$/linear search/linear search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern/pattern.iml" filepath="$PROJECT_DIR$/pattern/pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>

@@ -15,8 +15,8 @@ public class Factors {
 
     // O(sqrt(n))
     static void factors2(int n) {
-        for (int i = 1; i <= Math.sqrt(n); i++) {
-            if (n % i == 0) {
+        int i;
+        if (n % i == 0) {
                 if (n/i == i) {
                     System.out.print(i + " ");
                 }else {
