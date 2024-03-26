@@ -19,5 +19,7 @@ public class Palindrome {
 
     static boolean palin(int n) {
         return n == rev(n);
+
+
     }
 }
