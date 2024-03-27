@@ -1,5 +1,6 @@
 public class Palindrome {
     public static void main(String[] args) {
+
         System.out.println(palin(1));
     }
     static int rev(int n) {
