@@ -1,7 +1,7 @@
 public class LinearSearch {
     public static void main(String[] args) {
         int[] arr = {1,2,3,4,5,8,9};
-        System.out.println(findIndex(arr,9,0));
+        System.out.println(findIndexLast(arr,2,6));
     }
 
     //my method
@@ -36,6 +36,21 @@ public class LinearSearch {
         }
         else{
             return findIndex(arr,target,index+1);
+        }
+
+    }
+
+    //to find index from last
+    static int findIndexLast(int[] arr, int target, int index){
+
+        if(index == -1){
+            return -1;
+        }
+        if (arr[index] == target ){
+            return index;
+        }
+        else{
+            return findIndexLast(arr,target,index - 1);
         }
 
     }
