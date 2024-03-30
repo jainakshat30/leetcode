@@ -16,7 +16,7 @@ public class mergeSortInPlace {
         mergeSortInPlace(arr, s, mid);
         mergeSortInPlace(arr, mid, e);
 
-        mergeInPlace(arr, s, mid, e);
+        mergeInPlace1(arr, s, mid, e);
     }
 
     private static void mergeInPlace(int[] arr, int s, int m, int e) {
@@ -53,6 +53,27 @@ public class mergeSortInPlace {
 
         for (int l = 0; l < mix.length; l++) {
             arr[s+l] = mix[l];
+        }
+    }
+
+//without creating any other array
+    private static void mergeInPlace1(int[] arr, int s, int m, int e) {
+        int start2 = m;
+        while (s < m && start2 < e) {
+            if (arr[s] <= arr[start2]) {
+                s++;
+            } else {
+                int temp = arr[start2];
+                // Shift all the elements between 's' and 'start2' right by one position
+                for (int i = start2; i > s; i--) {
+                    arr[i] = arr[i - 1];
+                }
+                arr[s] = temp;
+                // Move all pointers one step forward
+                s++;
+                m++;
+                start2++;
+            }
         }
     }
 }
