@@ -6,6 +6,7 @@ public class QuickSort {
 //        sort(arr, 0, arr.length - 1);
 //        System.out.println(Arrays.toString(arr));
         Arrays.sort(arr);
+        System.out.println(Arrays.toString(arr));
     }
 
     static void sort(int[] nums, int low, int hi) {
