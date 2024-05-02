@@ -33,6 +33,8 @@ class Intersection349 {
                 j += 1;
             }
         }
+
+
         return list;
     }
 }
