@@ -6,7 +6,6 @@ class LongestPalindrome {
 
          int length = 0;
 
-         
 
          for (char c : s.toCharArray()) {
             if(charSet.contains(c)){
