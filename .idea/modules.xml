@@ -7,11 +7,14 @@
       <module fileurl="file://$PROJECT_DIR$/Binary_Search/Binary_Search.iml" filepath="$PROJECT_DIR$/Binary_Search/Binary_Search.iml" />
       <module fileurl="file://$PROJECT_DIR$/CycleSort/CycleSort.iml" filepath="$PROJECT_DIR$/CycleSort/CycleSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/FUNCTIONS/FUNCTIONS.iml" filepath="$PROJECT_DIR$/FUNCTIONS/FUNCTIONS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/MathForDSA/MathForDSA.iml" filepath="$PROJECT_DIR$/MathForDSA/MathForDSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recusrion Questions/Recusrion Questions.iml" filepath="$PROJECT_DIR$/Recusrion Questions/Recusrion Questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recusrion Questions/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Recusrion Questions/Sorting/Sorting.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting_Questions/Sorting_Questions.iml" filepath="$PROJECT_DIR$/Sorting_Questions/Sorting_Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String_Questions/String_Questions.iml" filepath="$PROJECT_DIR$/String_Questions/String_Questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recusrion Questions/Strings/Strings.iml" filepath="$PROJECT_DIR$/Recusrion Questions/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/bubblesort/bubblesort.iml" filepath="$PROJECT_DIR$/bubblesort/bubblesort.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
