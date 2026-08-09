@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/jainakshat30/leetcode/tree/master/0125-valid-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jainakshat30/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jainakshat30/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jainakshat30/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/jainakshat30/leetcode/tree/master/0125-valid-palindrome) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jainakshat30/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
