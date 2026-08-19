@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jainakshat30/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/jainakshat30/leetcode/tree/master/0125-valid-palindrome) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jainakshat30/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jainakshat30/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jainakshat30/leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/jainakshat30/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/jainakshat30/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jainakshat30/leetcode/tree/master/0064-minimum-path-sum) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jainakshat30/leetcode/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jainakshat30/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/jainakshat30/leetcode/tree/master/0056-merge-intervals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jainakshat30/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
