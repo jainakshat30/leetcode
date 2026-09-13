@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/jainakshat30/leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/jainakshat30/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jainakshat30/leetcode/tree/master/0213-house-robber-ii) |
+| [0283-move-zeroes](https://github.com/jainakshat30/leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/jainakshat30/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jainakshat30/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/jainakshat30/leetcode/tree/master/1140-stone-game-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jainakshat30/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jainakshat30/leetcode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/jainakshat30/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0283-move-zeroes](https://github.com/jainakshat30/leetcode/tree/master/0283-move-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jainakshat30/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
