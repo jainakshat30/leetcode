@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jainakshat30/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/jainakshat30/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/jainakshat30/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jainakshat30/leetcode/tree/master/0064-minimum-path-sum) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jainakshat30/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jainakshat30/leetcode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/jainakshat30/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jainakshat30/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
