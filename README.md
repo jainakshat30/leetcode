@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jainakshat30/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jainakshat30/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/jainakshat30/leetcode/tree/master/0486-predict-the-winner) |
+| [0540-single-element-in-a-sorted-array](https://github.com/jainakshat30/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/jainakshat30/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/jainakshat30/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/jainakshat30/leetcode/tree/master/1140-stone-game-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/jainakshat30/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jainakshat30/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/jainakshat30/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/jainakshat30/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/jainakshat30/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
