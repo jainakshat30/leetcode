@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jainakshat30/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jainakshat30/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/jainakshat30/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/jainakshat30/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/jainakshat30/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jainakshat30/leetcode/tree/master/0064-minimum-path-sum) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/jainakshat30/leetcode/tree/master/0055-jump-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jainakshat30/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jainakshat30/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jainakshat30/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jainakshat30/leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/jainakshat30/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/jainakshat30/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/jainakshat30/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jainakshat30/leetcode/tree/master/0064-minimum-path-sum) |
