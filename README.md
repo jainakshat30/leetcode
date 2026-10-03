@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/jainakshat30/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/jainakshat30/leetcode/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jainakshat30/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0746-min-cost-climbing-stairs](https://github.com/jainakshat30/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/jainakshat30/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/jainakshat30/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/jainakshat30/leetcode/tree/master/1140-stone-game-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/jainakshat30/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jainakshat30/leetcode/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/jainakshat30/leetcode/tree/master/0486-predict-the-winner) |
+| [0746-min-cost-climbing-stairs](https://github.com/jainakshat30/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/jainakshat30/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/jainakshat30/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jainakshat30/leetcode/tree/master/1406-stone-game-iii) |
