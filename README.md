@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/jainakshat30/leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/jainakshat30/leetcode/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jainakshat30/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/jainakshat30/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/jainakshat30/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jainakshat30/leetcode/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/jainakshat30/leetcode/tree/master/0283-move-zeroes) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/jainakshat30/leetcode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/jainakshat30/leetcode/tree/master/0169-majority-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jainakshat30/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jainakshat30/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jainakshat30/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jainakshat30/leetcode/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jainakshat30/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jainakshat30/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/jainakshat30/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/jainakshat30/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/jainakshat30/leetcode/tree/master/0169-majority-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jainakshat30/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jainakshat30/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jainakshat30/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -266,4 +270,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jainakshat30/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/jainakshat30/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jainakshat30/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
