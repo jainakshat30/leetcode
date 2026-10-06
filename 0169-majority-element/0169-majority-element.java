@@ -1,6 +1,16 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        Arrays.sort(nums);
-        return nums[nums.length/2];
+        Map<Integer,Integer> freq = new HashMap<>();
+
+        for(int num : nums){
+            freq.put(num, freq.getOrDefault(num, 0) + 1);
+        }
+
+        for(int num : freq.keySet()){
+            if(freq.get(num) > nums.length/2){
+                return num;
+            }
+        }
+        return 0;
     }
 }
