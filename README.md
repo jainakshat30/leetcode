@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jainakshat30/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/jainakshat30/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/jainakshat30/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/jainakshat30/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/jainakshat30/leetcode/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/jainakshat30/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jainakshat30/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/jainakshat30/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/jainakshat30/leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/jainakshat30/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/jainakshat30/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/jainakshat30/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/jainakshat30/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/jainakshat30/leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/jainakshat30/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/jainakshat30/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/jainakshat30/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jainakshat30/leetcode/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/jainakshat30/leetcode/tree/master/0200-number-of-islands) |
 ## Quicksort
 |  |
 | ------- |
@@ -288,5 +292,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/jainakshat30/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/jainakshat30/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
